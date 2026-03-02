@@ -9,7 +9,7 @@ kofi_username: mikaautomation
 amazon_affiliate: mikaautomatio-20
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
