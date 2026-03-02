@@ -1,8 +1,8 @@
 ---
+layout: post
 title: "Running Local LLMs for Free with Ollama"
-date: 2026-03-02
-author: "LostDakota"
-categories: ["Local AI", "Open Source", "Guides"]
+date: 2026-03-02 12:00:00 -0500
+categories: local-ai ollama guides
 ---
 
 Stop paying monthly subscriptions for AI. If you have a decent computer, you can run powerful models like Llama 3 locally—for free. No data leaks, no API limits, and zero credit card required.
